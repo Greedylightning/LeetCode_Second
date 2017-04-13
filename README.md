@@ -1,2 +1,3 @@
 # LeetCode_Second
-second time hack Leetcode and CTCI
+Second time hack LeetCode and CTCI using Java.
+
