@@ -14,4 +14,6 @@ class SmallestElement{
         if(count == 0) number = root.val;
         if(root.right != null) helper(root.right);
     }
+
+    
 }
